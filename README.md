@@ -57,8 +57,8 @@ I'm 23 years old and I live in Rio de Janeiro, I'm finishing my degree in Inform
 
 </br>
 
-<a href="https://www.instagram.com/alesoncrvg" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/aleson" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.instagram.com/alesoncrvg" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 
 
 ##
