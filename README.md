@@ -24,7 +24,7 @@
 
 ## Hello, Devs!
 
-Tenho 23 anos e moro no Rio de Janeiro, estou terminando minha graduação em Sistemas de Informação na (UNESA). Sou um estudante de TI altamente motivado e com uma profunda paixão por tecnologia. Com habilidades em programação e desenvolvimento de software, possuo conhecimentos em diversas linguagens de programação.
+Tenho 24 anos e moro no Rio de Janeiro, estou terminando minha graduação em Sistemas de Informação na (UNESA). Sou um estudante de TI altamente motivado e com uma profunda paixão por tecnologia. Com habilidades em programação e desenvolvimento de software, possuo conhecimentos em diversas linguagens de programação.
 
 
 
