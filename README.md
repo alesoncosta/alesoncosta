@@ -28,7 +28,7 @@ Tenho 24 anos e moro no Rio de Janeiro, estou terminando minha graduação em Si
 
 
 
-I'm 23 years old and I live in Rio de Janeiro, I'm finishing my degree in Information Systems at (UNESA). I am a highly motivated IT student with a deep passion for technology. With skills in programming and software development, I have knowledge of several programming languages.
+I'm 24 years old and I live in Rio de Janeiro, I'm finishing my degree in Information Systems at (UNESA). I am a highly motivated IT student with a deep passion for technology. With skills in programming and software development, I have knowledge of several programming languages.
 <p align="center">
   
 </p>
