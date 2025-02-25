@@ -24,11 +24,11 @@
 
 ## Hello, Devs!
 
-Tenho 24 anos e moro no Rio de Janeiro, estou terminando minha graduação em Sistemas de Informação na (UNESA). Sou um estudante de TI altamente motivado e com uma profunda paixão por tecnologia. Com habilidades em programação e desenvolvimento de software, possuo conhecimentos em diversas linguagens de programação.
+Tenho 25 anos e moro no Rio de Janeiro, estou terminando minha graduação em Sistemas de Informação na (UNESA). Sou um estudante de TI altamente motivado e com uma profunda paixão por tecnologia. Com habilidades em programação e desenvolvimento de software, possuo conhecimentos em diversas linguagens de programação.
 
 
 
-I'm 24 years old and I live in Rio de Janeiro, I'm finishing my degree in Information Systems at (UNESA). I am a highly motivated IT student with a deep passion for technology. With skills in programming and software development, I have knowledge of several programming languages.
+I'm 25 years old and I live in Rio de Janeiro, I'm finishing my degree in Information Systems at (UNESA). I am a highly motivated IT student with a deep passion for technology. With skills in programming and software development, I have knowledge of several programming languages.
 <p align="center">
   
 </p>
@@ -46,7 +46,7 @@ I'm 24 years old and I live in Rio de Janeiro, I'm finishing my degree in Inform
 </br>
 <div display="inline-block">
  <p align="left">📚 Atualmente tenho estudado C#, e também estou na fase final do meu curso na <a href="https://www.alura.com.br/">Alura</a>;</p> para desenvolvimento Web;</p>
- <p align="left">📷 Não costumo compartilhar minha vida pessoal em redes sociais, mas assim que eu iniciar a minha carreira como programador eu pretendo mostrar minhas experiências com a transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/alesoncrg">Instagram</a>. Segue lá e vem bater um papo!</p>
+ <p align="left">📷 Não costumo compartilhar minha vida pessoal em redes sociais, mas assim que eu iniciar a minha carreira como programador eu pretendo mostrar minhas experiências com a transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/alesoncrvg">Instagram</a>. Segue lá e vem bater um papo!</p>
  <p align="left">☕🎮 Só acordo com café, e também sou completamente apaixonado por Games e Futebol, não poderia deixar de mencionar isso ❤</p>
 </div>
 
