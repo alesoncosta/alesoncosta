@@ -22,32 +22,51 @@
 </br>
 </br>
 
-## Hello, Devs!
+## Hello, Devs! 👋
 
-Tenho 25 anos e moro no Rio de Janeiro, estou terminando minha graduação em Sistemas de Informação na (UNESA). Sou um estudante de TI altamente motivado e com uma profunda paixão por tecnologia. Com habilidades em programação e desenvolvimento de software, possuo conhecimentos em diversas linguagens de programação.
+🇧🇷  
+Tenho **26 anos** e moro no **Rio de Janeiro**, estou cursando **Engenharia de Software na UNESA**.  
+Sou um estudante de TI altamente motivado, com uma forte afinidade por tecnologia.  
+Possuo habilidades em programação e desenvolvimento de software, com conhecimentos em diversas linguagens de programação.
 
+🇺🇸  
+I am **26 years old** and I live in **Rio de Janeiro**, I am currently studying **Software Engineering at UNESA**.  
+I am a highly motivated IT student with a strong interest in technology.  
+With skills in programming and software development, I have knowledge of several programming languages.
 
+<p align="center"></p>
 
-I'm 25 years old and I live in Rio de Janeiro, I'm finishing my degree in Information Systems at (UNESA). I am a highly motivated IT student with a deep passion for technology. With skills in programming and software development, I have knowledge of several programming languages.
-<p align="center">
-  
+### 🖥️ Tecnologias e Ferramentas | Technologies & Tools
+<img width="300px" align="right" src="https://gifrun.blob.core.windows.net/temp/4262f4f9e2524bbdad933d15cea7d83f.gif">
+
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
+
+<br><br>
+
+<div display="inline-block">
+
+<p align="left">
+📚 Possuo <strong>conhecimento sólido em C#</strong>, com foco em desenvolvimento web, 
+e atualmente estou estudando <strong>Java</strong> para ampliar minha base em programação orientada a objetos.  
+Cursos concluídos pela <a href="https://www.alura.com.br/">Alura</a>.
 </p>
 
-### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://gifrun.blob.core.windows.net/temp/4262f4f9e2524bbdad933d15cea7d83f.gif">
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<p align="left">
+📷 Não costumo compartilhar minha vida pessoal nas redes sociais, mas pretendo compartilhar experiências sobre 
+transição de carreira, estudos e tecnologia no 
+<a href="https://www.instagram.com/alesoncrvg">Instagram</a>. Fique à vontade para me acompanhar!
+</p>
 
+<p align="left">
+☕🎮 Café, games e futebol fazem parte da rotina — não poderia deixar de mencionar 😊
+</p>
 
-</br>
-</br>
-<div display="inline-block">
- <p align="left">📚 Atualmente tenho estudado C#, e também estou na fase final do meu curso na <a href="https://www.alura.com.br/">Alura</a>;</p> para desenvolvimento Web;</p>
- <p align="left">📷 Não costumo compartilhar minha vida pessoal em redes sociais, mas assim que eu iniciar a minha carreira como programador eu pretendo mostrar minhas experiências com a transição de carreira, dicas de estudo e tecnologia no <a href="https://www.instagram.com/alesoncrvg">Instagram</a>. Segue lá e vem bater um papo!</p>
- <p align="left">☕🎮 Só acordo com café, e também sou completamente apaixonado por Games e Futebol, não poderia deixar de mencionar isso ❤</p>
+</div>
+
 </div>
 
 
