@@ -45,10 +45,9 @@ With skills in programming and software development, I have knowledge of several
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/></code>
 
-<br><br>
-
+<br>
+<br>
 <div display="inline-block">
-
 <p align="left">
 📚 Possuo <strong>conhecimento sólido em C#</strong>, com foco em desenvolvimento web, 
 e atualmente estou estudando <strong>Java</strong> para ampliar minha base em programação orientada a objetos.  
@@ -62,7 +61,7 @@ transição de carreira, estudos e tecnologia no
 </p>
 
 <p align="left">
-☕🎮 Café, games e futebol fazem parte da rotina — não poderia deixar de mencionar 😊
+☕🎮 Só acordo com café, e também sou completamente apaixonado por Games e Futebol, não poderia deixar de mencionar isso ❤
 </p>
 
 </div>
