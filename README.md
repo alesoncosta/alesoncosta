@@ -25,16 +25,18 @@
 ## Hello, Devs! 👋
 
 🇧🇷  
-Tenho **26 anos** e moro no **Rio de Janeiro**, estou cursando **Engenharia de Software na UNESA**.  
+Tenho **26 anos** e moro no **Rio de Janeiro**, estou cursando **Engenharia de Software na Universidade Estácio de Sá (UNESA)**.  
 Sou um estudante de TI altamente motivado, com uma forte afinidade por tecnologia.  
 Possuo habilidades em programação e desenvolvimento de software, com conhecimentos em diversas linguagens de programação.
 
 🇺🇸  
-I am **26 years old** and I live in **Rio de Janeiro**, I am currently studying **Software Engineering at UNESA**.  
+I am **26 years old** and I live in **Rio de Janeiro**, I am currently studying **Software Engineering at Universidade Estácio de Sá (UNESA)**.
 I am a highly motivated IT student with a strong interest in technology.  
 With skills in programming and software development, I have knowledge of several programming languages.
 
-<p align="center"></p>
+<p align="center">
+ 
+</p>
 
 ### 🖥️ Tecnologias e Ferramentas | Technologies & Tools
 <img width="300px" align="right" src="https://gifrun.blob.core.windows.net/temp/4262f4f9e2524bbdad933d15cea7d83f.gif">
